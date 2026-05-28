@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasevalculate",
+        "uuid": 10842552,
+        "checksum": "59rwj"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
